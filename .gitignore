@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore models & binaries
+*.pkl
+
+# Ignore archives
+*.zip
+
+# Ignore environment files
+.env
+
+# Ignore temporary notebooks
+.ipynb_checkpoints/
